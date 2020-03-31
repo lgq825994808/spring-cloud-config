@@ -1,1 +1,2 @@
-vercion:config-dev
+config:
+  info: config-dev  master  version=1
