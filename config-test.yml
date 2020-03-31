@@ -1,1 +1,2 @@
-version:config-test
+config:
+  info: config-test  master  version=1
